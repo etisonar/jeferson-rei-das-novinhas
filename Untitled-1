@@ -1,0 +1,12 @@
+style.css
+h1{
+    style:purple;
+
+}
+em{
+    style:#191970
+}
+img{
+    height: 100;
+    width: 50;
+}
